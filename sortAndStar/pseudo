@@ -1,0 +1,15 @@
+input
+sort out words in ascii form 
+
+function
+
+output
+the first word in the list split by letters and joined with astrix
+
+1.function statement named twoSort with parameter s
+
+
+2. //return s as property with sort method that sorts in acending order
+//for ascii characters then 0 index as a pointer to use on split with
+//exclamation mark no space, as pattern and join method with three stars
+// as the pattern
