@@ -1,0 +1,23 @@
+input
+the theater and number of coloms and rows
+
+also the seating position marked with two inputs like a chess board
+col and row
+
+
+function 
+
+
+
+output
+
+ncol 16, nrow 11, col 5, row 3
+
+
+1. //function statement named seatsInTheater with four parameters
+// nCols, nRows, col, row.
+
+
+
+2. //return nCols minus col plus 1 times nRows minus rows
+//follow the order of operations
