@@ -1,0 +1,20 @@
+input
+if both inputs are odd return false, also if both inputs are even
+return false 
+else return true
+
+
+function 
+
+
+output
+
+2 and 2 equal false not inlove
+
+1 and 2 equal true inlove
+
+
+1. // function statement named lovefunc with parameters flower1, flower2
+
+
+2. //return flower1 modulos 2 not equal to flower2 modulos 2;
