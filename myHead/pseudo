@@ -1,0 +1,13 @@
+input 
+an arrray with three elements that are backwards
+
+function
+
+
+output
+an array in the correct order head body tail
+
+1. //function statement named fixTheMeerkat with parameter argument arr
+
+
+2. //return arr with reverse method
