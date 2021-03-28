@@ -45,3 +45,13 @@ Unfinished Loop - Bug Fixing #1
 
 Oh no, Timmy's created an infinite loop! Help Timmy find and fix the bug in his unfinished for loop!
 BUGSLOOPSCONTROL FLOWBASIC LANGUAGE FEATURESFUNDAMENTALS
+
+
+## fifth algorithm; squash the bug
+
+Description:
+
+Simple challenge - eliminate all bugs from the supplied code so that the code runs and outputs the expected value. Output should be the length of the longest word, as a number.
+
+There will only be one 'longest' word.
+BUGSFUNDAMENTALS
