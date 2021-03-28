@@ -33,3 +33,15 @@ Same goes for all the other arrays/lists that you will get in the tests: you hav
 
 Simples!
 ALGORITHMSARRAYSLISTSDATA STRUCTURES
+
+
+
+## fourth algorithm; infinit loop
+
+
+Description:
+
+Unfinished Loop - Bug Fixing #1
+
+Oh no, Timmy's created an infinite loop! Help Timmy find and fix the bug in his unfinished for loop!
+BUGSLOOPSCONTROL FLOWBASIC LANGUAGE FEATURESFUNDAMENTALS

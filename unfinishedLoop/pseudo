@@ -1,0 +1,16 @@
+input 
+a for loop that needs fixing from being infinit
+i++
+function
+
+
+output
+for loop that counts
+
+1. //function statement named createArray with parameter number
+
+
+
+2. //fix infinit loop by completing the for loop which is missing a part
+//the part is the initial emement incroments by one which is 
+//counter ++
